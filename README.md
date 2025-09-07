@@ -1,2 +1,3 @@
 # OR-Code-Generator
 QR Code Generator  A simple and responsive QR Code Generator built using HTML, CSS, and JavaScript. It allows users to generate QR codes instantly from any text or URL. Users can download the generated QR code for future use.
+A clean, responsive QR Code Generator built with HTML, CSS and vanilla JavaScript. This client-side app lets users enter any text or URL, see an instant preview, customize size and colors, and download the generated QR as an image. Perfect as a small project for learning DOM manipulation, Canvas usage, and integrating QR-generation libraries (or using a lightweight JS algorithm). No backend — everything runs in the browser.
